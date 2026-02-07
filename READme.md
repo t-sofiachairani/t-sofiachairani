@@ -65,21 +65,3 @@ to create impactful and scalable digital solutions.
   <img src="https://wakatime.com/badge/user/7c0bf88a-6159-4008-bb16-2641d2112ee1.svg"
        alt="Total time coded" />
 </a>
-
-<p align="left">
-  <a href="https://github.com/t-sofiachairani">
-    <img height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=t-sofiachairani&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&cache_seconds=86400" />
-    <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-sofiachairani&layout=compact&langs_count=8&theme=buefy&cache_seconds=86400" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/t-sofiachairani">
-    <img height="180em"
-      src="https://streak-stats.demolab.com?user=t-sofiachairani&theme=buefy&cache_seconds=86400" />
-  </a>
-</p>
-
-
