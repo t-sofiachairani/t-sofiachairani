@@ -1,5 +1,5 @@
 <h2>
-  Hi, I'm Sofia!
+  Hello, everyone! I'm Sofia
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="45">
 </h2>
 
