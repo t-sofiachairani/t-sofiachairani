@@ -60,8 +60,3 @@ to create impactful and scalable digital solutions.
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 </div>
-
-<a href="https://wakatime.com/@7c0bf88a-6159-4008-bb16-2641d2112ee1">
-  <img src="https://wakatime.com/badge/user/7c0bf88a-6159-4008-bb16-2641d2112ee1.svg"
-       alt="Total time coded" />
-</a>
