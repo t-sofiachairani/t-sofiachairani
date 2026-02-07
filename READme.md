@@ -21,7 +21,7 @@
 <br/>
 
 <div align="center">
-  <h3>Hello Everyone! I'm Sofia 
+  <h3>Hello, Everyone! I'm Sofia 
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="45">
   </h3>
 </div>
@@ -31,4 +31,8 @@ A passionate and highly motivated <b>Computer Science student</b> with strong in
 <b>Machine Learning, Data Science and Software Development</b>. 
 I enjoy exploring new technologies, building meaningful projects, and continuously improving my skills 
 to create impactful and scalable digital solutions.
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/t-sofiachairani/t-sofiachairani/output/pacman-contribution-graph.svg" />
 </p>
