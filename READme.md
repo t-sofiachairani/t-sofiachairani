@@ -1,12 +1,9 @@
-![Profile Views](https://komarev.com/ghpvc/?username=t-sofiachairani&label=Profile+Views&color=brightgreen)
-[![Website](https://img.shields.io/badge/Portfolio_Website-Coming_Soon-brightgreen)](#)
-
 <div align="center">
   <a href="https://www.linkedin.com/in/t-sofiachairani/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/t-sofiachairani">
-    <img src="https://img.shields.io/badge/Github-%23121011.svg?&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-D6CDB7?style=for-the-badge&logoColor=black" />
   </a>
 </div>
 
@@ -18,12 +15,10 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2liZWlsZjAxZHQwYmloMXkxZXB0OHl5aTZsenZycnUwdzVpendrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SgPk5T5fk5y1p5ZIqR/giphy.gif" width="100" height="100" />
 </div>
 
-<br/>
-
 <div align="center">
-  <h3>Hello, Everyone! I'm Sofia 
+  <h1>Hello, Everyone! I'm Sofia 
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="45">
-  </h3>
+  </h1>
 </div>
 
 <p align="justify">
@@ -65,3 +60,5 @@ to create impactful and scalable digital solutions.
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 </div>
+
+
